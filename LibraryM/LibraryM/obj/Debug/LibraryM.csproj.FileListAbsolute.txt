@@ -1,0 +1,39 @@
+D:\c#\LibraryM\LibraryM\bin\Debug\LibraryM.exe.config
+D:\c#\LibraryM\LibraryM\bin\Debug\LibraryM.exe
+D:\c#\LibraryM\LibraryM\bin\Debug\LibraryM.pdb
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.AssemblyReference.cache
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.SuggestedBindingRedirects.cache
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Form1.resources
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Properties.Resources.resources
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.GenerateResource.cache
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.CoreCompileInputs.cache
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.exe
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.pdb
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Form2.resources
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Form3.resources
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Form4.resources
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Form5.resources
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.Form6.resources
+D:\c#\LibraryM\LibraryM\bin\Debug\MySql.Data.dll
+D:\c#\LibraryM\LibraryM\bin\Debug\MySql.Data.xml
+D:\c#\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.CopyComplete
+D:\Library Management System project 2022\LibraryM\LibraryM\bin\Debug\LibraryM.exe.config
+D:\Library Management System project 2022\LibraryM\LibraryM\bin\Debug\LibraryM.exe
+D:\Library Management System project 2022\LibraryM\LibraryM\bin\Debug\LibraryM.pdb
+D:\Library Management System project 2022\LibraryM\LibraryM\bin\Debug\MySql.Data.dll
+D:\Library Management System project 2022\LibraryM\LibraryM\bin\Debug\MySql.Data.xml
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.AssemblyReference.cache
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.SuggestedBindingRedirects.cache
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form1.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form2.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form3.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form4.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form5.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form6.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Properties.Resources.resources
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.GenerateResource.cache
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.CoreCompileInputs.cache
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.csproj.CopyComplete
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.exe
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.pdb
+D:\Library Management System project 2022\LibraryM\LibraryM\obj\Debug\LibraryM.Form7.resources
